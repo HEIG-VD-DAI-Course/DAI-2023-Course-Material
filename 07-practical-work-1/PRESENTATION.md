@@ -44,17 +44,17 @@ headingDivider: 6
 -->
 
 [web]:
-  https://heig-vd-dai-course.github.io/heig-vd-dai-course/07-practical-work-1/
+	https://heig-vd-dai-course.github.io/heig-vd-dai-course/07-practical-work-1/
 [pdf]:
-  https://heig-vd-dai-course.github.io/heig-vd-dai-course/07-practical-work-1/07-practical-work-1-presentation.pdf
+	https://heig-vd-dai-course.github.io/heig-vd-dai-course/07-practical-work-1/07-practical-work-1-presentation.pdf
 [license]:
-  https://github.com/heig-vd-dai-course/heig-vd-dai-course/blob/main/LICENSE.md
+	https://github.com/heig-vd-dai-course/heig-vd-dai-course/blob/main/LICENSE.md
 [discussions]: https://github.com/orgs/heig-vd-dai-course/discussions/5
 [illustration]: ./images/main-illustration.jpg
 [course-material]:
-  https://github.com/heig-vd-dai-course/heig-vd-dai-course/blob/main/07-practical-work-1/COURSE_MATERIAL.md
+	https://github.com/heig-vd-dai-course/heig-vd-dai-course/blob/main/07-practical-work-1/COURSE_MATERIAL.md
 [course-material-qr-code]:
-  https://quickchart.io/qr?format=png&ecLevel=Q&size=400&margin=1&text=https://github.com/heig-vd-dai-course/heig-vd-dai-course/blob/main/07-practical-work-1/COURSE_MATERIAL.md
+	https://quickchart.io/qr?format=png&ecLevel=Q&size=400&margin=1&text=https://github.com/heig-vd-dai-course/heig-vd-dai-course/blob/main/07-practical-work-1/COURSE_MATERIAL.md
 
 # Practical work 1
 
@@ -284,7 +284,7 @@ a small theater piece, etc., however:
 
 - No need to remind us the objectives (we know them)
 - No need to present us the code (we will grade it later)
-- Focus your presentation on the _"what"_ and the _"how"_
+- Focus your presentation on the _"what"_ and the _"why"_
 
 Aim to explain/pitch your project to someone that has a good technical
 understanding but has strictly no idea of your project and what it does and how
